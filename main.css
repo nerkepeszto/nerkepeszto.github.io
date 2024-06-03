@@ -276,8 +276,8 @@ h1 {
   width: 320px;
 }
 .median .wealth {
-  width: 7.94px;
-  height: 7.94px;
+  width: 10px;
+  height: 10px;
 }
 .explainer {
   font-size: 16px;
@@ -302,7 +302,7 @@ h1 {
   }
 }
 .bezos .wealth {
-  width: 370000px;
+  width: 660000px;
   height: 500px;
   background-color: orange;
 }
@@ -349,25 +349,29 @@ h1 {
   min-width: 140px;
 }
 .lifetime .square {
-  width: 41.23px;
-  height: 41.23px;
+  width: 13.3px;
+  height: 13.3px;
   background-color: blue;
 }
 .healthcare .square {
-  width: 4.96px;
-  height: 4.96px;
+  width: 19.12px;
+  height: 19.12px;
   background-color: blue;
 }
 .amazon-year .square {
-  width: 5.4px;
-  height: 5.4px;
+  width: 46.14px;
+  height: 46.14px;
+  background-color: blue;
+}
+.lolo-oraber .square {
+  width: 528.83px;
+  height: 300.00px;
   background-color: blue;
 }
 .year-veteran .square {
-  height: 400px;
-  width: 1186px;
-  margin-top: 5px;
-  background-color: #8BC34A;
+  height: 66.22px;
+  width: 66.22px;
+  background-color: blue;
 }
 .year-veteran .title {
   width: auto;
@@ -391,7 +395,7 @@ h1 {
 }
 .year-chemo .square {
   height: 400px;
-  width: 22500px;
+  width: 584px;
   background-color: #03A9F4;
   border: 5px dashed #0078af;
   box-sizing: border-box;
@@ -406,25 +410,25 @@ h1 {
   top: 310px;
 }
 .year-chemo .key > span {
-  background-color: #03A9F4;
+  background-color: #51bef0;
 }
 .celebrities {
   display: flex;
   width: auto;
 }
 .beyonce .square {
-  height: 350px;
-  width: 1142px;
+  height: 300px;
+  width: 3300px;
   background-color: #406994;
 }
 .goldman .square {
-  width: 223px;
-  height: 223px;
+  width: 584;
+  height: 300px;
   background-color: #64A8F0;
 }
 .tim-cook .square {
-  width: 1785px;
-  height: 350px;
+  width: 3.45px;
+  height: 3.46px;
   background-color: #71889e;
 }
 .doctor .square {
